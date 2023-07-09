@@ -6,6 +6,7 @@ public class HelloJava {
 
 		System.out.println("Hello Java I am using you first you");
                 int i = 10;
+		int j = 20;
 
 	}
 
